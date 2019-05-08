@@ -1,0 +1,10 @@
+name: jupiterapp
+title:
+username:
+account: cgmariani
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 918660
+bundleId: 2070544
+url: https://cgmariani.shinyapps.io/jupiterapp/
+when: 1557345844.76836
